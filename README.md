@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate software developer from Lagos, Nigeria.</h3>
 
-- 🔭 I’m currently working on **building a fully responsive website.**
-
 - 🌱 I’m currently learning **JavaScript, React and Python.**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, jQuery, JavaScript, NodeJS, Vanilla JS, React, C, Python, Github etc.**
